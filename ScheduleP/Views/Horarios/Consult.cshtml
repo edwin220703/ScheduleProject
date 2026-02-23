@@ -1,0 +1,35 @@
+﻿@model ScheduleP.Models.Horario
+
+@{
+    ViewData["Title"] = "Consult";
+}
+
+<section>
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Hola</th>
+                <th>Lunes</th>
+                <th>Martes</th>
+                <th>Miercoles</th>
+                <th>Jueves</th>
+                <th>Viernes</th>
+                <th>Sabados</th>
+            </tr>
+        </thead>
+        <tbody>
+            @for (DateTime i = DateTime.Today.AddHours(7); i <= DateTime.Today.AddHours(15); i = i.AddMinutes(45))
+            {
+                <tr>
+                    <td>@i.ToString("hh:mm")</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</section>
