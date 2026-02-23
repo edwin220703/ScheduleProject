@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\edwin\\source\\repos\\ScheduleP\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D76016B2-3C10-4F5D-9D2F-FE326DEBDA7A}|ScheduleP\\ScheduleP.csproj|c:\\users\\edwin\\source\\repos\\schedulep\\schedulep\\views\\horarios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D76016B2-3C10-4F5D-9D2F-FE326DEBDA7A}|ScheduleP\\ScheduleP.csproj|solutionrelative:schedulep\\views\\horarios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +23,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\edwin\\source\\repos\\ScheduleP\\ScheduleP\\Views\\Horarios\\Create.cshtml",
+              "RelativeDocumentMoniker": "ScheduleP\\Views\\Horarios\\Create.cshtml",
+              "ToolTip": "C:\\Users\\edwin\\source\\repos\\ScheduleP\\ScheduleP\\Views\\Horarios\\Create.cshtml",
+              "RelativeToolTip": "ScheduleP\\Views\\Horarios\\Create.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-23T22:23:59.603Z",
+              "EditorCaption": ""
             }
           ]
         }
