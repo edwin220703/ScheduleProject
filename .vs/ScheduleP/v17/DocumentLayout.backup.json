@@ -3,12 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\edwin\\source\\repos\\ScheduleP\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D76016B2-3C10-4F5D-9D2F-FE326DEBDA7A}|ScheduleP\\ScheduleP.csproj|c:\\users\\edwin\\source\\repos\\schedulep\\schedulep\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D76016B2-3C10-4F5D-9D2F-FE326DEBDA7A}|ScheduleP\\ScheduleP.csproj|solutionrelative:schedulep\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76016B2-3C10-4F5D-9D2F-FE326DEBDA7A}|ScheduleP\\ScheduleP.csproj|c:\\users\\edwin\\source\\repos\\schedulep\\schedulep\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D76016B2-3C10-4F5D-9D2F-FE326DEBDA7A}|ScheduleP\\ScheduleP.csproj|solutionrelative:schedulep\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76016B2-3C10-4F5D-9D2F-FE326DEBDA7A}|ScheduleP\\ScheduleP.csproj|c:\\users\\edwin\\source\\repos\\schedulep\\schedulep\\views\\horarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D76016B2-3C10-4F5D-9D2F-FE326DEBDA7A}|ScheduleP\\ScheduleP.csproj|solutionrelative:schedulep\\views\\horarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76016B2-3C10-4F5D-9D2F-FE326DEBDA7A}|ScheduleP\\ScheduleP.csproj|c:\\users\\edwin\\source\\repos\\schedulep\\schedulep\\models\\asignatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D76016B2-3C10-4F5D-9D2F-FE326DEBDA7A}|ScheduleP\\ScheduleP.csproj|solutionrelative:schedulep\\models\\asignatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D76016B2-3C10-4F5D-9D2F-FE326DEBDA7A}|ScheduleP\\ScheduleP.csproj|c:\\users\\edwin\\source\\repos\\schedulep\\schedulep\\views\\horarios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D76016B2-3C10-4F5D-9D2F-FE326DEBDA7A}|ScheduleP\\ScheduleP.csproj|solutionrelative:schedulep\\views\\horarios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D76016B2-3C10-4F5D-9D2F-FE326DEBDA7A}|ScheduleP\\ScheduleP.csproj|c:\\users\\edwin\\source\\repos\\schedulep\\schedulep\\controllers\\horarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D76016B2-3C10-4F5D-9D2F-FE326DEBDA7A}|ScheduleP\\ScheduleP.csproj|solutionrelative:schedulep\\controllers\\horarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D76016B2-3C10-4F5D-9D2F-FE326DEBDA7A}|ScheduleP\\ScheduleP.csproj|c:\\users\\edwin\\source\\repos\\schedulep\\schedulep\\views\\horarios\\consult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D76016B2-3C10-4F5D-9D2F-FE326DEBDA7A}|ScheduleP\\ScheduleP.csproj|solutionrelative:schedulep\\views\\horarios\\consult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76016B2-3C10-4F5D-9D2F-FE326DEBDA7A}|ScheduleP\\ScheduleP.csproj|c:\\users\\edwin\\source\\repos\\schedulep\\schedulep\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D76016B2-3C10-4F5D-9D2F-FE326DEBDA7A}|ScheduleP\\ScheduleP.csproj|solutionrelative:schedulep\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76016B2-3C10-4F5D-9D2F-FE326DEBDA7A}|ScheduleP\\ScheduleP.csproj|c:\\users\\edwin\\source\\repos\\schedulep\\schedulep\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D76016B2-3C10-4F5D-9D2F-FE326DEBDA7A}|ScheduleP\\ScheduleP.csproj|solutionrelative:schedulep\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +42,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\edwin\\source\\repos\\ScheduleP\\ScheduleP\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ScheduleP\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\edwin\\source\\repos\\ScheduleP\\ScheduleP\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ScheduleP\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-21T22:27:39.158Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -29,29 +67,101 @@
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HorariosController.cs",
-              "DocumentMoniker": "C:\\Users\\edwin\\source\\repos\\ScheduleP\\ScheduleP\\Controllers\\HorariosController.cs",
-              "RelativeDocumentMoniker": "ScheduleP\\Controllers\\HorariosController.cs",
-              "ToolTip": "C:\\Users\\edwin\\source\\repos\\ScheduleP\\ScheduleP\\Controllers\\HorariosController.cs",
-              "RelativeToolTip": "ScheduleP\\Controllers\\HorariosController.cs",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAAAEgAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-23T23:10:04.347Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\edwin\\source\\repos\\ScheduleP\\ScheduleP\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ScheduleP\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\edwin\\source\\repos\\ScheduleP\\ScheduleP\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ScheduleP\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-21T22:22:38.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\edwin\\source\\repos\\ScheduleP\\ScheduleP\\Views\\Horarios\\Index.cshtml",
+              "RelativeDocumentMoniker": "ScheduleP\\Views\\Horarios\\Index.cshtml",
+              "ToolTip": "C:\\Users\\edwin\\source\\repos\\ScheduleP\\ScheduleP\\Views\\Horarios\\Index.cshtml",
+              "RelativeToolTip": "ScheduleP\\Views\\Horarios\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-21T22:22:32.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Asignatura.cs",
+              "DocumentMoniker": "C:\\Users\\edwin\\source\\repos\\ScheduleP\\ScheduleP\\Models\\Asignatura.cs",
+              "RelativeDocumentMoniker": "ScheduleP\\Models\\Asignatura.cs",
+              "ToolTip": "C:\\Users\\edwin\\source\\repos\\ScheduleP\\ScheduleP\\Models\\Asignatura.cs",
+              "RelativeToolTip": "ScheduleP\\Models\\Asignatura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T22:22:24.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\edwin\\source\\repos\\ScheduleP\\ScheduleP\\Views\\Horarios\\Create.cshtml",
               "RelativeDocumentMoniker": "ScheduleP\\Views\\Horarios\\Create.cshtml",
               "ToolTip": "C:\\Users\\edwin\\source\\repos\\ScheduleP\\ScheduleP\\Views\\Horarios\\Create.cshtml",
               "RelativeToolTip": "ScheduleP\\Views\\Horarios\\Create.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-23T23:09:48.929Z",
+              "WhenOpened": "2026-04-21T22:21:49.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Consult.cshtml",
+              "DocumentMoniker": "C:\\Users\\edwin\\source\\repos\\ScheduleP\\ScheduleP\\Views\\Horarios\\Consult.cshtml",
+              "RelativeDocumentMoniker": "ScheduleP\\Views\\Horarios\\Consult.cshtml",
+              "ToolTip": "C:\\Users\\edwin\\source\\repos\\ScheduleP\\ScheduleP\\Views\\Horarios\\Consult.cshtml",
+              "RelativeToolTip": "ScheduleP\\Views\\Horarios\\Consult.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-21T22:21:33.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\edwin\\source\\repos\\ScheduleP\\ScheduleP\\Program.cs",
+              "RelativeDocumentMoniker": "ScheduleP\\Program.cs",
+              "ToolTip": "C:\\Users\\edwin\\source\\repos\\ScheduleP\\ScheduleP\\Program.cs",
+              "RelativeToolTip": "ScheduleP\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T14:28:44.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\edwin\\source\\repos\\ScheduleP\\ScheduleP\\appsettings.json",
+              "RelativeDocumentMoniker": "ScheduleP\\appsettings.json",
+              "ToolTip": "C:\\Users\\edwin\\source\\repos\\ScheduleP\\ScheduleP\\appsettings.json",
+              "RelativeToolTip": "ScheduleP\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-10T14:27:05.478Z",
               "EditorCaption": ""
             }
           ]

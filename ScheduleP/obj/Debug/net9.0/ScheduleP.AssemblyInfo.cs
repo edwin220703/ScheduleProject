@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ScheduleP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+91a3bbe0b923ad34f799fc171b3b26e555ebae07")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce678d849f8e3583eb048b698524621354be52f6")]
 [assembly: System.Reflection.AssemblyProductAttribute("ScheduleP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ScheduleP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
